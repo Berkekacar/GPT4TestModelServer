@@ -1,5 +1,4 @@
-#Using Technologies
-https://www.ntuclearninghub.com/documents/51786/4216795/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476?t=1679043970578
+
 # Generate and Execute unit-test pyton programming language
 
 Platform for creating and running unit tests for your Python codes using gpt API
